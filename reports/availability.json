@@ -1078,14 +1078,14 @@
     },
     {
       "resource_id": "zip0",
-      "url": "https://zip0.com/",
-      "status": "reachable",
-      "http_status": 200,
-      "final_url": "https://zip0.com/",
-      "response_ms": 199,
-      "checked_at": "2026-09-06T01:30:08.436Z",
-      "attempts": 1,
-      "error": null
+      "url": "https://zip0.com/?r=KBDIG8",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-09-06T01:47:44.214Z",
+      "attempts": 0,
+      "error": "Not checked yet"
     }
   ]
 }
